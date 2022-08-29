@@ -1,2 +1,2 @@
 # curso-practico-javascript
-Todo lo que voy practicando del curso de Java script que estoy tomando.
+Todo lo que voy practicando del curso de Javascript que estoy tomando.
